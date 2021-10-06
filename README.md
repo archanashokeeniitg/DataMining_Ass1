@@ -8,27 +8,36 @@ Archana Shokeen (015237378)
 
 San Jose State University
 
-Data Sets used - https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
-Data Narrative
+Data Sets used - https://www.kaggle.com/dgomonov/data-exploration-on-nyc-airbnb/data
 
-These are open source data set provided by Kaggle. It covers the various attributes like DailyRate , EnvironmentSatisfaction, JobSatisfaction, Age, TotalWorkingYears etc. The wrangling of data is done to avoid null values and drop the duplicate entries. The data set try to uncover the factors that lead to employee attrition and explore relevant questions . This is a fictional data set created by IBM data scientists.
+Data Narrative - This dataset has around 49,000 observations in it with 16 columns and it is a mix between categorical and numeric values. This data includes all needed information to find out more about hosts, geographical availability, necessary metrics to make predictions and draw conclusions.
 
 ## Table of contents
-Data Cleaning
+Assignment-1
 
-Checking Missing data
+Data Analysis
+
+Data Wrangling
+
+Duplicate removal
+
+Preprocessing data
+
+Checking Null Values
+
+Heat Map using factors correlation
 
 Data Visualization
 
-Feature Visualization
+Relation between neighbourgroup and Availability of Room
 
-HeatMap
+Map of Neighbourhood group
 
-Hot Encoding
+Map Of Room
 
-Model Training and Prediction
+Model Training using Linear Regression
 
-Accuracy
+HotEncoding
 
-Confusion Matrix
+Model Accuracy
