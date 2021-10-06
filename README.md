@@ -12,7 +12,7 @@ Data Sets used - https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition
 
 Data Narrative
 
-These are open source data set provided by Kaggle. It covers the various attributes like DailyRate , EnvironmentSatisfaction, JobSatisfaction, Age, TotalWorkingYears etc. The wrangling of data is done to avoid null values and drop the duplicate entries. The extra columns are dropped using iloc.
+These are open source data set provided by Kaggle. It covers the various attributes like DailyRate , EnvironmentSatisfaction, JobSatisfaction, Age, TotalWorkingYears etc. The wrangling of data is done to avoid null values and drop the duplicate entries. The data set try to uncover the factors that lead to employee attrition and explore relevant questions . This is a fictional data set created by IBM data scientists.
 
 ## Table of contents
 Data Cleaning
